@@ -1,5 +1,5 @@
 # website_learning_notes
-This repository records my learning codes and notes
+
 
 onclick.html 用按鈕和javascript函式更改網頁顯示的內容
 
