@@ -1,0 +1,28 @@
+HTML5
+HTML¬O¤@ºØ¼Ð°O»y¨¥¡A¤@­ÓHTMLºô­¶¬O¥H¦h­Ótag(¼ÐÅÒ)²Õ¦¨¡C¹B¥Î¤£¦Pªº¼ÐÅÒ¯à¨ÏÂsÄý¾¹¦bµe­±¤W§e²{ºô­¶ªº¥¬§½©M¤º®e¡C
+°ò¥»ªºHTML¬[ºc:
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <metacharset="UTF-8">
+    <title> Example </title>
+  </head>
+  <body>
+    ºô­¶¤º®e
+  </body>
+</html>
+
+¥Ñ<>®Øþªº¤å¦r´N¬O¼ÐÅÒ
+
+<!DOCTYPE HTML>¼ÐÅÒ¥Î¨Ó¦VÂsÄý¾¹«Å§iºô­¶ªºHTMLª©¥»¡A«Å§i Document Type Definition, DTD(¤å¥óÃþ«¬©w¸q)¡C¦¹¬°HTML5ªº«Å§i¤è¦¡
+
+<html> </html>¼ÐÅÒ¬OHTMLÀÉ®×¶}©l©Mµ²§ôªº¼Ð°O¡A©Ò¦³©Mºô­¶¦³Ãöªº¤¸¯Àm·|¦s©ñ¦b³o¨â­Ó¼Ð°O¤§¶¡¡A¥u­n¥ô¦ó¤@­Ó¯Â¤å¦rÀÉ¤¤¥[¤J³o­Ó¼Ð°O¡A¨Ã¥H°ÆÀÉ¦WhtmlÀx¦s¡A´N·|³Qµø¬°ºô­¶¥ÑÂsÄý¾¹¶}±Ò¡C
+
+<head>¼ÐÅÒ
+  HTMLªºÀÉ®×¸ê°Tm·|¦s©ñ¦b<head> </head>¤§¶¡¡A±`¥Îªº¸ê°T¥]¬Aºô­¶¸ê°T(meta)¡B¼ÐÃD(title)¡BCSS©Mjavascriptµ¥
+  ºô­¶¸ê°T(meta):¥]§t½s½X(charset)¡B´y­z(description)¡BÃöÁä¦r(keywords)¡B§@ŽÍ(author)¡Bª©Åv(copyright)µ¥¡A³q±`¦b¶}µo®É·|¿ï¾ÜUTF-8½s½X
+  ¼ÐÃD(title): ºô­¶³Ì³»³¡ªº¼ÐÅÒ¡A·|³Q·j´M¤ÞÀº§@¬°·j´MÃöÁä¦r°Ñ¦Ò¡A¥H¤W­±ªºµ{¦¡¬°¨Ò¡Aºô­¶Åã¥Üªº¼ÐÃD¬OExample
+  CSS©Mjavascript: CSS©Mjavascript¤]³Q¼g¦bhead¼ÐÅÒ¤¤
+
+<body>¼ÐÅÒ
+  <body>¼ÐÅÒ¦s©ñºô­¶¤º¤å¶}©l»Pµ²§ôªº¼Ð°O¡Aºô­¶¿é¥Xªº¤¸¯Àm·|³Q©ñ¦bbody¸Ì¡A¹³¬O¹Ï¤ù¡B¼v¤ù¡B­µ¼Ö¡Bªí³æ¡Bªí®æµ¥
