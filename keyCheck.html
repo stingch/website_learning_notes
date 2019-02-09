@@ -1,0 +1,37 @@
+<!-- ... «öÁä°»´ú ... -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>keyCheck</title>
+  <script type = "text/javascript">
+  
+  document.write("«ö¤UBÁäªğ¦^");
+  
+  function keyCheck(e){
+  	var keynum; //Àx¦sASCII½X
+    var keychar; //Àx¦sString.fromCharCodeÂà´«¦¨ªº¦r¤¸
+    
+    //§PÂ_ÂsÄı¾¹¡C¦]¬°¨C­ÓÂsÄı¾¹¨ú±oASCAIIªº«ü¥O¤£¦P
+    if(window.event){
+      keynum = e.keyCode; // Internet Explor
+    }else{
+      keynum = e.which; //¨ä¥LÂsÄı¾¹
+    }
+    
+    keychar = String.fromCharCode(keynum); //±NASCII½XÂà´«¦¨¦r¤¸
+    
+    //¦pªG¿é¤Jªº¦r¤¸¬OB¡A¸õ¥Xalertµøµ¡(¤j¤p¼gm¥i¥H)
+    if(keychar == "B"){
+      alert("ªğ¦^¤W¤@­Óµe­±");
+    }
+  }
+  </script>
+</head>
+
+<body> 
+
+<!-- ... ¥[¤Jonkeydown«ü¥OÄ²µokeyCheck¨Æ¥ó ... -->
+<input type="text" onkeydown="keyCheck(event)"/> 
+
+</body>
+</html> 

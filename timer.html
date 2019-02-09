@@ -1,0 +1,21 @@
+<!-- ... 累計網頁執行所經過的時間 ... -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Timer</title>
+  <script type = "text/javascript">
+  	var sec = 0 //計算秒數
+    function timeAdd(){
+    sec += 1
+    document.visit.timetext.value = sec + "秒" //調用visit表單內的timetext變數
+    setTimeout("timeAdd()", 1000) //等待1000ms後再執行一次timeAdd()，意思即為每秒使sec重新+1
+    }
+  </script>
+</head>
+
+<body onload="timeAdd()"> <!--... 執行<body>時，觸發timeAdd() function ...-->
+<form name=visit>
+  <input size=12 name=timetext> <!--... 使用輸入框顯示timetext的內容 ...-->
+</form>
+</body>
+</html> 
