@@ -17,7 +17,7 @@ HTML是一種標記語言，一個HTML網頁是以多個tag(標籤)組成。運�
 由<>框起來的文字就是標籤
 
 ### <!DOCTYPE HTML>
-標籤用來向瀏覽器宣告網頁的HTML版本，宣告 Document Type Definition, DTD(文件類型定義)。此為HTML5的宣告方式
+標籤用來向瀏覽器宣告網頁的HTML版本，進行 Document Type Definition, DTD(文件類型定義)。此為HTML5的宣告方式
 
 ### <html> </html>標籤
 HTML檔案開始和結束的標記，所有和網頁有關的元素會存放在這兩個標記之間，只要任何一個純文字檔中加入這個標記，並以副檔名html儲存，就會被視為網頁由瀏覽器開啟。
